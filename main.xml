@@ -31,6 +31,12 @@
   </dir>
 	
   <dir>
+    <title>1 Click Movies</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/AM%201%20Click%20Movies.jpg</thumbnail>
+  </dir>
+	
+  <dir>
     <title></title>
     <link></link>
     <thumbnail></thumbnail>
