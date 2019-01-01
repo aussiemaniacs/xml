@@ -48,109 +48,109 @@
   
 	<dir>
     <title>Movies 2010</title>
-    <link>https://github.com/aussiemaniacs/xml/blob/master/one%20click%202010.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202010.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
 	<dir>
     <title>Movies 2009</title>
-    <link>file://one click 2009.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202009.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
       <dir>
     <title>Movies 2008</title>
-    <link>file://one click 2008.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202008.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2007</title>
-    <link>file://one click 2007.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202007.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2006</title>
-    <link>file://one click 2006.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202006.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2005</title>
-    <link>file://one click 2005.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202005.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2004</title>
-    <link>file://one click 2004.xml</link>
-	<thumbnail>ttps://github.com/dudelove00/artwork/blob/master/2004%20icon.jpg</thumbnail>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202004.xml</link>
+	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2003</title>
-    <link>file://one click 2003.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202003.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2002</title>
-    <link>file://one click 2002.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202002.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 2001</title>
-    <link>file://one click 2001.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202001.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 1991-2000</title>
-    <link>file://one click 1991-2000.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%201991-2000.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 1981-1990</title>
-    <link>file://one click 1981-1990.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%201981-1990.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 1971-1980</title>
-    <link>file://one click 1971-1980.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%201971-1980.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 1961-1970</title>
-    <link>file://one click 1961-1970.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%201961-1970.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 1951-1960</title>
-    <link>file://one click 1951-1960.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%201951-1960.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Movies 1900-1950</title>
-    <link>file://one click 1900-1950.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%201900-1950.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Boxsets</title>
-    <link>file://Boxsets.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Boxsets.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>test</title>
-    <link>file://test.xml</link>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/test.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
