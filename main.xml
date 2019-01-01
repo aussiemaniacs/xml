@@ -9,25 +9,25 @@
   <dir>
     <title>Search Movie or TV</title>
     <tmdb>search</tmdb>
-	<thumbnail></thumbnail>
+    <thumbnail>https://livingstoneadvisory.com/wp-content/uploads/2016/10/Fotolia_63892082_S_-SEARCH.jpg</thumbnail>
   </dir>
   
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/movies.xml</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://boygeniusreport.files.wordpress.com/2016/03/movies-tiles.jpg?quality=98&strip=all</thumbnail>
   </dir>
   
   <dir>
     <title>TV</title>
     <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/tv.xml</link>
-    <thumbnail></thumbnail>
+    <thumbnail>http://i-vrox.com/wp-content/uploads/2018/06/series-2.jpg</thumbnail>
   </dir>
     
   <dir>
     <title>Aussie Live TV</title>
     <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
-    <thumbnail></thumbnail>
+    <thumbnail>http://brockystv.com/wp-content/uploads/channels.jpg</thumbnail>
   </dir>
 	
   <dir>
