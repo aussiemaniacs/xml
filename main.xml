@@ -29,6 +29,12 @@
     <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/AM%20Live%20TV.jpg</thumbnail>
   </dir>
+
+  <dir>
+    <title>1 Click Movies</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/AM%20Live%20TV.jpg</thumbnail>
+  </dir>	
 	
   <dir>
     <title>1 Click Movies</title>
