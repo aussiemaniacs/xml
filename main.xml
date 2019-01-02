@@ -60,7 +60,7 @@
 	
   <dir>
     <title>Template Movie List</title>
-    <Movies-Grid view>all</Movies-Grid view>
+    <template_movie_list>all</template_movie_list>
     </dir>
 	
   <dir>
