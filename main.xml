@@ -3,10 +3,10 @@
    <title>Welcome to the New Aussie addon, AUSSIE MANIACS, Everything Aussie plus More</title>
 </item>
 <item>
-   <title> If you have a request, Join telegram via, Windows, Android or IOS</title>
+   <title> If you have a request, Join Facebook page via, Windows, Android or IOS</title>
 </item>
 <item>
-   <title>Search @aussiemaniacs, Join the group, and leave a request</title>
+   <title>Search Aussie Maniacs, Join the group, and leave a request</title>
 </item>
 
 	
@@ -71,17 +71,17 @@
 	<fanart>http://www.fullhdwpp.com/wp-content/uploads/John-Wayne-quote_www.fullhdwpp.com_.jpg</fanart>
     </dir>
 	
+  <dir>
+    <title>Requests</title>
+    <temp_movie>all</temp_movie>
+    </dir>
+	
   <item>
     <title>Settings</title>
     <mysettings>1/0</mysettings>
     <info>Open the Settings for the addon on the General tab</info>
     </item>
 	
-  <dir>
-    <title>Template Movie List</title>
-    <temp_movie>all</temp_movie>
-    </dir>
-
   <dir>
     <title></title>
     <link></link>
