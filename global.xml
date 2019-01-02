@@ -1,11 +1,22 @@
 <xml>
-<item>
-   <title></title>
-   <link></link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
+<dir>
+   <title>Russell's Anime</title>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Anime.xml</link>
+   <thumbnail>https://cdn.vox-cdn.com/thumbor/hJq_hq_GDsldfqsPJJIw8xJX-rA=/0x354:1064x1166/1200x800/filters:focal(376x510:546x680)/cdn.vox-cdn.com/uploads/chorus_image/image/56956201/2x3__25_.0.png</thumbnail>
+</dir>
 
+	
+<dir>
+    <title>BNW Movies</title>
+    <bnw>movies</bnw>
+    </dir>
+	
+<dir>
+   <title>The Duke Movie List</title>
+   <duke>all</duke>
+	<thumbnail>https://pbs.twimg.com/profile_images/1004442158248554497/k4iRjaEN_400x400.jpg</thumbnail>
+	<fanart>http://www.fullhdwpp.com/wp-content/uploads/John-Wayne-quote_www.fullhdwpp.com_.jpg</fanart>
+    </dir>
 <item>
    <title></title>
    <link></link>
