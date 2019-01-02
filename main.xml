@@ -37,7 +37,13 @@
   </dir>	
 	
   <dir>
+    <title>Aussie Motorsport</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Aussie%20Motor%20Sport.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/AM%20Motorsports.jpg</thumbnail>
+  </dir>
+	
+  <dir>
     <title></title>
     <link></link>
     <thumbnail></thumbnail>
-  </dir>
+  </dir>	
