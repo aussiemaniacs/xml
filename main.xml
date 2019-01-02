@@ -1,6 +1,6 @@
 <xml>
 <item>
-   <title>Welcome to the New Aussie addon</title>
+   <title>Welcome to the New Aussie addon, AUSSIE MANIACS, Everything Aussie plus More</title>
 </item>
 <item>
    <title> AUSSIE MANIACS</title>
@@ -26,7 +26,12 @@
 <item>
    <title>and leave a request</title>
 </item
+	
 
+	
+<item>
+   <title>MENU</title>
+</item
 <item>
    <title>Fetch TV Movie Trailers</title>
    <link>http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8</link>
