@@ -62,6 +62,11 @@
     <title>Template Movie List</title>
     <temp_movie>all</temp_movie>
     </dir>
+	
+  <dir>
+    <title>BNW Movies</title>
+    <bnw>movies</bnw>
+    </dir>
 
   <dir>
     <title></title>
