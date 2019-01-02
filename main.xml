@@ -53,6 +53,12 @@
   </dir>
 	
   <dir>
+    <title>Global</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/global.xml</link>
+    <thumbnail>https://www.signaltours.com/wp-content/uploads/2016/11/global-small-1.jpg</thumbnail>
+  </dir>
+	
+  <dir>
     <title>Requests</title>
     <temp_movie>all</temp_movie>
     </dir>
