@@ -1,19 +1,25 @@
 <xml>
   <dir>
+    <title>Movies 2019</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202019.xml</link>
+    <thumbnail></thumbnail>
+  </dir>
+  	
+  <dir>
     <title>Movies 2018</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202018.xml</link>
-	<thumbnail></thumbnail>
+    <thumbnail></thumbnail>
   </dir>
   <dir>
     <title>Movies 2017</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202017.xml</link>
-	<thumbnail></thumbnail>
+    <thumbnail></thumbnail>
   </dir>
 
     <dir>
     <title>Movies 2016</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202016.xml</link>
-	<thumbnail></thumbnail>
+    <thumbnail></thumbnail>
   </dir>
   
     <dir>
@@ -25,16 +31,16 @@
     <dir>
     <title>Movies 2014</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202014.xml</link>
-	<thumbnail></thumbnail>
+    <thumbnail></thumbnail>
   </dir>
   
     <dir>
     <title>Movies 2013</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202013.xml</link>
-	<thumbnail></thumbnail>
+    <thumbnail></thumbnail>
   </dir>
   
-	<dir>
+  <dir>
     <title>Movies 2012</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202012.xml</link>
 	<thumbnail></thumbnail>
