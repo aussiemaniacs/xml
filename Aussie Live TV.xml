@@ -2,7 +2,7 @@
   <dir>
     <title>Aussie Sport</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Aussie%20Sport.xml</link>
-    <thumbnail>https://collegeofsport.edu.au/wp-content/uploads/2017/12/4x5-Collage_V4.jpg</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/Aussie%20Live%20Sport.png</thumbnail>
   </dir>
 
     <dir>
@@ -32,5 +32,5 @@
   <dir>
     <title>Random TV</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Random%20TV.xml</link>
-	<thumbnail>http://i-vrox.com/wp-content/uploads/2018/06/series-2.jpg</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/Randow%20tv.png</thumbnail>
   </dir>
