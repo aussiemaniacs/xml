@@ -2,13 +2,13 @@
   <dir>
     <title>Movies 2019</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202019.xml</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/2019.png</thumbnail>
   </dir>
   	
   <dir>
     <title>Movies 2018</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202018.xml</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/2018.png</thumbnail>
   </dir>
   <dir>
     <title>Movies 2017</title>
