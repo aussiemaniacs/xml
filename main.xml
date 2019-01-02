@@ -64,6 +64,11 @@
     </dir>
 	
   <dir>
+    <title>Classic TV</title>
+    <temp_movie>all</temp_movie>
+    </dir>
+	
+  <dir>
     <title></title>
     <link></link>
     <thumbnail></thumbnail>
