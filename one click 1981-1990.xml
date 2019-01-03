@@ -26,15 +26,15 @@
       <sublink>(1080p) http://s1.tinydl.info/Movies/Flight%20of%20the%20Navigator%201986/Flight_of_the_Navigator_1986_1080p_BrRip_YIFY_TINYMZ.mp4</sublink>
       <sublink>http://s1.tinydl.info/Movies/Flight%20of%20the%20Navigator%201986/Flight_of_the_Navigator_1986_720p_BrRip_YIFY_TINYMZ.mp4 720p</sublink>
    </link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
+   <thumbnail>https://www.imdb.com/title/tt0091059/mediaviewer/rm135466752</thumbnail>
+   <fanart>https://www.imdb.com/title/tt0091059/mediaviewer/rm2328948736</fanart>
 </item>
    
    <item>
-   <title></title>
-   <link></link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
+   <title>Hocus Pocus</title>
+   <link>http://mc1.dl3enter.in/files/d1/film/1993/Hocus%20Pocus/Hocus.Pocus.1993.720p.BluRay.DL.mp4</link>
+   <thumbnail>https://www.imdb.com/title/tt0107120/mediaviewer/rm3543799552</thumbnail>
+   <fanart>https://www.imdb.com/title/tt0107120/mediaviewer/rm406425088</fanart>
 </item>   
    
 <item>
@@ -47,5 +47,23 @@
    <fanart></fanart>
 </item>
    
+<item>
+   <title></title>
+   <link>
+      <sublink></sublink>
+      <sublink></sublink>
+   </link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
    
+<item>
+   <title></title>
+   <link>
+      <sublink></sublink>
+      <sublink></sublink>
+   </link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
    
