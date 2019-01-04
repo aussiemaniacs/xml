@@ -1,69 +1,107 @@
 <xml>
 <item>
-   <title>A Nightmare on Elm Street 5 - The Dream Child 1989</title>
-   <link>http://www.deadlyblogger.com/NewRelease/elm5.mp4</link>
-   <thumbnail>https://image.tmdb.org/t/p/original/vnorsG2pKAVqIMYsDJbKoOr4CsX.jpg</thumbnail>
-   <fanart>https://image.tmdb.org/t/p/original/qGaMw8SSkapz9ZBgpMQhUhDWNTU.jpg</fanart>
+<title>A Nightmare on Elm Street 5 - The Dream Child 1989</title>
+<meta>
+<content>movie</content>
+<imdb>tt0097981</imdb>
+<title>A Nightmare on Elm Street 5 - The Dream Child</title>
+<year>1989</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://www.deadlyblogger.com/NewRelease/elm5.mp4</sublink>
+<sublink>http://server1.timepassbd.com/ftpdata1/Movies/Hollywood/1900-1999/A%20Nightmare%20on%20Elm%20Street%205%3A%20The%20Dream%20Child%20%281989%29/A.Nightmare.On.Elm.Street.5.The.Dream.Child.1989.HD%20%28www.timepassbd.com%29.mp4</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://www.imdb.com/title/tt0097981/mediaviewer/rm935387136</thumbnail>
+<fanart>https://www.imdb.com/title/tt0097981/mediaviewer/rm2022881792</fanart>
+</item>
+   
+<item>
+<title>Who Framed Roger Rabbit 1988</title>
+<meta>
+<content>movie</content>
+<imdb>tt0096438</imdb>
+<title>Who Framed Roger Rabbit</title>
+<year>1988</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://www.deadlyblogger.com/NewRelease/framed.mp4</sublink>
+<sublink>http://mc1.dl3enter.in/files/d1/Movie/1988/Who%20Framed%20Roger%20Rabbit/Who.Framed.Rodger.Rabbit.1998.BluRay.720p.DL.mkv</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/z4Q5Ej4n1LOz0jFdiBbb0zAzIYm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/axqOcmB8ePreuai0iY6ncXBljqW.jpg</fanart>
 </item>
 
 <item>
-   <title>Who Framed Roger Rabbit 1988</title>
-   <link>http://www.deadlyblogger.com/NewRelease/framed.mp4</link>
-   <thumbnail>https://image.tmdb.org/t/p/original/z4Q5Ej4n1LOz0jFdiBbb0zAzIYm.jpg</thumbnail>
-   <fanart>https://image.tmdb.org/t/p/original/axqOcmB8ePreuai0iY6ncXBljqW.jpg</fanart>
+<title>The Goonies 1985</title>
+<meta>
+<content>movie</content>
+<imdb>yes</imdb>
+<title>The Goonies</title>
+<year>1985</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://1.254.175.80/%EC%98%81%ED%99%94/The.Goonies.1985.1080p.BluRay.x264.anoXmous/The.Goonies.1985.1080p.BluRay.x264.anoXmous.mp4</sublink>
+<sublink>http://s1.tinydl.info/Movies/The%20Goonies%201985/The_Goonies_1985_720p_BrRip_YIFY_TINYMZ.mp4</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://www.imdb.com/title/tt0089218/mediaviewer/rm2267879680</thumbnail>
+<fanart>https://www.imdb.com/title/tt0089218/mediaviewer/rm91336704</fanart>
 </item>
    
 <item>
-   <title>The Goonies 1985</title>
-   <linkhttp://1.254.175.80/%EC%98%81%ED%99%94/The.Goonies.1985.1080p.BluRay.x264.anoXmous/The.Goonies.1985.1080p.BluRay.x264.anoXmous.mp4</link>
-   <thumbnail>https://www.imdb.com/title/tt0089218/mediaviewer/rm2267879680</thumbnail>
-   <fanart>https://m.media-amazon.com/images/M/MV5BOGFmMWJiMDQtYmViNS00YjE2LWI4ZmMtOTk0YTk5YmIxMjFjXkEyXkFqcGdeQXVyODk0NzE1MDg@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<title>Flight of the Navigator 1986</title>
+<meta>
+<content>movie</content>
+<imdb>tt0091059</imdb>
+<title>Flight of the Navigator</title>
+<year>1986</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://s1.tinydl.info/Movies/Flight%20of%20the%20Navigator%201986/Flight_of_the_Navigator_1986_1080p_BrRip_YIFY_TINYMZ.mp4</sublink>
+<sublink>http://s1.tinydl.info/Movies/Flight%20of%20the%20Navigator%201986/Flight_of_the_Navigator_1986_720p_BrRip_YIFY_TINYMZ.mp4</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://www.imdb.com/title/tt0091059/mediaviewer/rm135466752</thumbnail>
+<fanart>https://www.imdb.com/title/tt0091059/mediaviewer/rm2328948736</fanart>
 </item>
    
 <item>
-   <title>Flight of the Navigator 1986</title>
-   <link>
-      <sublink>(1080p) http://s1.tinydl.info/Movies/Flight%20of%20the%20Navigator%201986/Flight_of_the_Navigator_1986_1080p_BrRip_YIFY_TINYMZ.mp4</sublink>
-      <sublink>http://s1.tinydl.info/Movies/Flight%20of%20the%20Navigator%201986/Flight_of_the_Navigator_1986_720p_BrRip_YIFY_TINYMZ.mp4 720p</sublink>
-   </link>
-   <thumbnail>https://www.imdb.com/title/tt0091059/mediaviewer/rm135466752</thumbnail>
-   <fanart>https://www.imdb.com/title/tt0091059/mediaviewer/rm2328948736</fanart>
-</item>
-   
-   <item>
-   <title>Hocus Pocus</title>
-   <link>http://mc1.dl3enter.in/files/d1/film/1993/Hocus%20Pocus/Hocus.Pocus.1993.720p.BluRay.DL.mp4</link>
-   <thumbnail>https://www.imdb.com/title/tt0107120/mediaviewer/rm3543799552</thumbnail>
-   <fanart>https://www.imdb.com/title/tt0107120/mediaviewer/rm406425088</fanart>
-</item>   
-   
-<item>
-   <title></title>
-   <link>
-      <sublink></sublink>
-      <sublink></sublink>
-   </link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
+<title>Hocus Pocus 1993</title>
+<meta>
+<content>movie</content>
+<imdb>tt0107120</imdb>
+<title>Hocus Pocus</title>
+<year>2018</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://mc1.dl3enter.in/files/d1/film/1993/Hocus%20Pocus/Hocus.Pocus.1993.720p.BluRay.DL.mp4</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://www.imdb.com/title/tt0107120/mediaviewer/rm3543799552</thumbnail>
+<fanart>https://www.imdb.com/title/tt0107120/mediaviewer/rm406425088</fanart>
 </item>
    
 <item>
-   <title></title>
-   <link>
-      <sublink></sublink>
-      <sublink></sublink>
-   </link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
+<title></title>
+<meta>
+<content>movie</content>
+<imdb>yes</imdb>
+<title>yes</title>
+<year>2018</year>
+<genre></genre>
+</meta>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-   
-<item>
-   <title></title>
-   <link>
-      <sublink></sublink>
-      <sublink></sublink>
-   </link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-   
