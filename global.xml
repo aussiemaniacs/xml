@@ -3,8 +3,15 @@
    <title>Russell's Anime</title>
    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Anime.xml</link>
    <thumbnail>https://cdn.vox-cdn.com/thumbor/hJq_hq_GDsldfqsPJJIw8xJX-rA=/0x354:1064x1166/1200x800/filters:focal(376x510:546x680)/cdn.vox-cdn.com/uploads/chorus_image/image/56956201/2x3__25_.0.png</thumbnail>
+   <fanart>https://i2.wp.com/www.thegeeklygrind.com/wp-content/uploads/2016/06/Tokyo-Ghoul-Featured.jpg?resize=1024%2C576</fanart>
 </dir>
 
+<dir>
+   <name>Haydens UFC</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Haydens%20UFC.xml</link>
+   <thumbnail>https://i.kinja-img.com/gawker-media/image/upload/s--5i8KuRZp--/c_scale,f_auto,fl_progressive,q_80,w_800/1251281400359472741.jpg</thumbnail>
+   <fanart>https://www.golden1center.com/assets/img/031079_SAC_ArenaSite_1340x600-ff16ff2149.jpeg</fanart>
+</dir>
 	
 <dir>
     <title>BNW Movies</title>
