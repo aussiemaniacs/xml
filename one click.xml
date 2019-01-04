@@ -1,5 +1,11 @@
 <xml>
   <dir>
+    <title>Boxsets</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Boxsets.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/Boxsets.png</thumbnail>
+  </dir>
+	
+  <dir>
     <title>Movies 2019</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202019.xml</link>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/2019.png</thumbnail>
@@ -148,11 +154,7 @@
 	<thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/1900-1950%20icon.png</thumbnail>
   </dir>
   
-  <dir>
-    <title>Boxsets</title>
-    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Boxsets.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/Boxsets.png</thumbnail>
-  </dir>
+  
   
   <dir>
     <title>test</title>
