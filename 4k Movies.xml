@@ -1,6 +1,6 @@
 <xml>
 <item>
-<title>Avengers: Infinity War</title>
+<title>Avengers: Infinity War (19.7Gb)</title>
 <meta>
 <content>movie</content>
 <imdb>tt4154756</imdb>
@@ -9,9 +9,27 @@
 <genre></genre>
 </meta>
 <link>
-<sublink>https://real-debrid.com/d/QDWUHIHK2UT3W (19.7Gb 2160p RD)</sublink>
+<sublink>https://real-debrid.com/d/QDWUHIHK2UT3W (2160p RD)</sublink>
 <sublink>search</sublink>
 </link>
 <thumbnail>https://www.imdb.com/title/tt4154756/mediaviewer/rm4044245504</thumbnail>
 <fanart>https://www.imdb.com/title/tt4154756/mediaviewer/rm317289472</fanart>
+</item>
+
+<item>
+<title>yes</title>
+<meta>
+<content>movie</content>
+<imdb>yes</imdb>
+<title>yes</title>
+<year>2018</year>
+<genre></genre>
+</meta>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
