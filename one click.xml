@@ -4,7 +4,14 @@
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Boxsets.xml</link>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/Boxsets.png</thumbnail>
   </dir>
-	
+
+<dir>
+    <title>4K Movies (Real Debrid only)</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/4k%20Movies.xml</link>
+    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/4k%20movies.png?raw=true</thumbnail>
+    <fanart>https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Free-Download-Gaming-4K-Resolution-Background-PIC-WPD0014281.jpg</fanart>
+</dir>
+
   <dir>
     <title>Movies 2019</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click%202019.xml</link>
