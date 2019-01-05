@@ -1,7 +1,10 @@
 <xml>
 <item>
    <title>Annabelle: Creation 2017</title>
-   <link>http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8</link>
+   <link>
+   <sublink>http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8</sublink>
+   <sublink>https://real-debrid.com/d/KO7P63PDCOBKI (RD only)</sublink>
+   </link>
    <thumbnail>https://image.tmdb.org/t/p/original/50CRgeVBwiIppubvbYZJnIG9APl.jpg</thumbnail>
    <fanart>https://image.tmdb.org/t/p/original/9rsUUu1EBoaJ5LePmCvwya9UThu.jpg</fanart>
 </item>
