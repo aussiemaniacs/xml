@@ -77,7 +77,7 @@
 <content>movie</content>
 <imdb>tt0107120</imdb>
 <title>Hocus Pocus</title>
-<year>2018</year>
+<year>1993</year>
 <genre></genre>
 </meta>
 <link>
@@ -89,19 +89,35 @@
 </item>
    
 <item>
-<title></title>
+<title>Men at Work</title>
 <meta>
 <content>movie</content>
-<imdb>yes</imdb>
-<title>yes</title>
-<year>2018</year>
+<imdb>tt0100135</imdb>
+<title>Men at Work</title>
+<year>1990</year>
 <genre></genre>
 </meta>
 <link>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>http://mc1.dl3enter.in/files/d1/Movie/1990/Men%20at%20Work/Men.at.Work.1990.720p.BluRay.DL.mp4</sublink>>
 <sublink>search</sublink>
 </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYmM3ZTk0NWQtMTM2ZS00Y2NlLWExNWQtYzQ0OTliYzljYTAzXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg</thumbnail>
+<fanart>https://www.imdb.com/title/tt0100135/mediaviewer/rm3349167616</fanart>
+</item>
+   
+<item>
+<title>National Lampoons Vacation 1989</title>
+<meta>
+<content>movie</content>
+<imdb>tt0097958</imdb>
+<title>National Lampoons Vacation</title>
+<year>1989</year>
+<genre></genre>
+</meta>
+<link>
+<sublink>http://mc1.dl3enter.in/files/d1/Movie/1989/National%20Lampoons%20Vacation/National.Lampoons.Vacation.1989.BluRay.720p.DL.mkv</sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Vacation1983.jpg/220px-Vacation1983.jpg</thumbnail>
+<fanart>https://www.imdb.com/title/tt0097958/mediaviewer/rm2721106944</fanart>
 </item>
