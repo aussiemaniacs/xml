@@ -1,9 +1,21 @@
 <xml>
 <item>
-   <title></title>
-   <link></link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
+<title>yes</title>
+<meta>
+<content>movie</content>
+<imdb>yes</imdb>
+<title>yes</title>
+<year>2018</year>
+<genre></genre>
+</meta>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink>search</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
