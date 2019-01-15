@@ -1,3 +1,4 @@
+<xml>
 <item>
    <title>NFL network</title>
    <link>https://hls.ustreamix.com/NFL-Network.m3u8?token=e38-b8c-f8e-387-1c3-7fd-1cd-b59-a5d-a28-845-355-240-e63-bb0-b98-7ee-9c5-7f7-872-c9e-8|Referer= https://ustreamyx.com/stream.php?id=nfl-network&token=61e-b32-e30-e64-21e-cdb-28c-3df-cf3-bfa-1d&Origin= https://ustreamyx.com</link>
@@ -7,31 +8,37 @@
 
 <item>
    <title>NBA TV</title>
-   <link>
-   <sublink>https://hls.ustreamix.com/NBA-TV.m3u8?token=331-9f7-e58-d74-350-747-c12-24a-3c5-60f-777-505-4a7-48e-627-cbb-880-be4-977-5a5-a7d-3|Referer= https://ustreamyx.com/stream.php?id=nba-tv&token=895-b19-4b7-f21-b3f-330-bfc-1c4-f0d-988-82&Origin= https://ustreamyx.com</sublink>
-   <sublink></sublink>
-   <sublink></sublink>
-   </link>
+   <link>https://hls.ustreamix.com/NBA-TV.m3u8?token=7ff-e17-b87-c3c-374-21d-dea-7cc-f72-fe7-fe0-961-ab1-aa3-28c-be4-a70-a10-f54-ab6-d99-f|Referer= https://ustreamyx.com/stream.php?id=nba-tv&token=83d-fd9-5df-a62-063-dad-b83-623-07a-b89-0c&Origin= https://ustreamyx.com</link>
    <thumbnail>https://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2012/04/nbatvlogo.png</thumbnail>
    <fanart>https://i.ytimg.com/vi/vjCWhNAgI-I/maxresdefault.jpg</fanart>
 </item>
 
 <item>
    <title>Sky Sports Cricket</title>
-   <link>
-   <sublink>hls.ustreamix.com/Sky-Sports-Cricket.m3u8?token=357-890-dc8-11f-653-979-85f-0d6-3d6-878-7f9-49c-8c6-769-61d-5e0-a7c-2b0-8e2-876-a95-a|Referer= https://ustreamyx.com/stream.php?id=sky-sports-cricket&token=75b-7d0-e2f-d6f-b74-c27-229-7e6-c28-913-92&Origin= https://ustreamyx.com</sublink> 
-   </link>
-   <thumbnail>data:image/png;base64,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</thumbnail>
+   <link>https://hls.ustreamix.com/Sky-Sports-Cricket.m3u8?token=a77-ee5-7a1-839-0b1-bd4-0f1-a7f-a18-b25-c6a-e62-c9d-f71-07a-b77-1a6-af5-11a-90f-af1-9|Referer= https://ustreamyx.com/stream.php?id=sky-sports-cricket&token=a09-3ec-a3a-b6a-784-acf-743-304-4ed-875-bb&Origin= https://ustreamyx.com</link>
+   <thumbnail>https://pbs.twimg.com/profile_images/809669788284788741/f_osTjj1.jpg</thumbnail>
    <fanart>https://www.bigbash.com.au/-/media/News/2018/07/18strikersbbl7.ashx?mw=1200</fanart>
 </item>
 
 <item>
    <title>Motor TV</title>
-   <link>
-   <sublink>https://hls.ustreamix.com/Motors-TV.m3u8?token=dea-d5e-512-815-4e0-dab-cbc-aec-b85-cc1-568-9ee-80b-07b-5f8-5a6-bb5-726-0c4-031-508-4|Referer= https://ustreamyx.com/stream.php?id=motors-tv&token=623-ba5-fe5-d6d-4d1-286-7ca-2f4-bb4-e8b-6c&Origin= https://ustreamyx.com</sublink>
-   </link>
+   <link>https://hls.ustreamix.com/Motors-TV.m3u8?token=54a-27c-602-36e-a5e-2cd-05e-a81-a9b-1eb-c82-78b-2f4-0ee-2aa-6e8-8d3-aa0-850-156-4a4-0|Referer= https://ustreamyx.com/stream.php?id=motors-tv&token=371-7c8-525-1ed-ffa-da5-2e1-bbc-bd1-f37-18&Origin= https://ustreamyx.com</link>
    <thumbnail>https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg</thumbnail>
    <fanart>https://i.ytimg.com/vi/L_Y_0dL6baI/hqdefault.jpg</fanart>
+</item>
+
+<item>
+   <title>Sky Sports F1 Live</title>
+   <link>https://hls.ustreamix.com/Sky-Sports-F1.m3u8?token=49f-263-3a8-9cb-d12-f1e-d08-9df-795-051-248-580-b3d-33f-58b-74b-d20-f6f-aa4-edf-5ec-c|Referer= https://ustreamyx.com/stream.php?id=sky-sports-f1&token=b85-8eb-890-a32-145-798-0fb-9e3-826-d95-a4&Origin= https://ustreamyx.com</link>
+   <thumbnail>https://e3.365dm.com/tvlogos/channels/1306-Mobile-Logo.svg?</thumbnail>
+   <fanart>https://tvnewsroom.org/wp-content/uploads/2012/03/tvnewsroom-2012-03-08-12h54m26s106.jpg</fanart>
+</item>
+
+<item>
+   <title>SyFy USA</title>
+   <link>https://hls.ustreamix.com/Syfy.m3u8?token=f20-c44-c13-732-ffc-147-adf-cd1-fa4-b3f-479-f6d-81b-134-c4a-e36-04d-e0f-d65-3af-ead-2|Referer= https://ustreamyx.com/stream.php?id=syfy&token=6b1-ac2-d5f-c55-2c2-a83-876-520-f60-296-12&Origin= https://ustreamyx.com</link>
+   <thumbnail>https://www.bleedingcool.com/wp-content/uploads/2016/04/syfylogo.jpg</thumbnail>
+   <fanart>https://www.syfy.com/sites/syfy/files/summer_preview_2016_blog_promo.jpg</fanart>
 </item>
 
 <item>
@@ -133,6 +140,20 @@
    <sublink></sublink>
    <sublink></sublink>
    </link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title></title>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title></title>
+   <link></link>
    <thumbnail></thumbnail>
    <fanart></fanart>
 </item>
