@@ -1,16 +1,30 @@
 <xml>
 <item>
-  <title>[B][COLOR skyblue]test[/COLOR][/B]</title>
-   <link></link>
-    <fanart></fanart>
-   <thumbnail></thumbnail>
+  <title>[B][COLOR skyblue]NFL Network[/COLOR][/B]</title>
+  <link>https://hls.ustreamix.com/NFL-Network.m3u8?token=e38-b8c-f8e-387-1c3-7fd-1cd-b59-a5d-a28-845-355-240-e63-bb0-b98-7ee-9c5-7f7-872-c9e-8|Referer= https://ustreamyx.com/stream.php?id=nfl-network&token=61e-b32-e30-e64-21e-cdb-28c-3df-cf3-bfa-1d&Origin= https://ustreamyx.com</link>
+  <fanart></fanart>
+  <thumbnail></thumbnail>
 </item>
    
 <item>
   <title>[B][COLOR skyblue]test[/COLOR][/B]</title>
-   <link></link>
-    <fanart></fanart>
-   <thumbnail></thumbnail>
+  <link></link>
+  <fanart></fanart>
+  <thumbnail></thumbnail>
+</item>
+  
+<item>
+  <title>[B][COLOR skyblue]test[/COLOR][/B]</title>
+  <link></link>
+  <fanart></fanart>
+  <thumbnail></thumbnail>
+</item>
+  
+  <item>
+  <title>[B][COLOR skyblue]test[/COLOR][/B]</title>
+  <link></link>
+  <fanart></fanart>
+  <thumbnail></thumbnail>
 </item>
    
 <item>
