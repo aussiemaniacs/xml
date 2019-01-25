@@ -1,5 +1,19 @@
 <xml>
 <item>
+   <title>USTV 24/7</title>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/ustv.xml</link>
+   <thumbnail>https://lh3.googleusercontent.com/WkZ-pv5jmLQZX5if2pF4rbw6pdbN5kzqqXNUvVMiH9IQvqbC3TLIZ6xhGV7-k10nSug=w412-h220-rw</thumbnail>
+   <fanart>https://cdn.smarthomebeginner.com/images/2016/01/00-Install-Kodi-USTVNow-channels-500x281.jpg</fanart>
+</item>
+   
+<item>
+   <title>UKTV 24/7</title>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/uktv.xml</link>
+   <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/7/7f/UKTV_logo_2013.png/revision/latest/scale-to-width-down/250?cb=20160719160222</thumbnail>
+   <fanart>http://www.productionpsych.com/wp-content/uploads/2016/09/tv-channels.png</fanart>
+</item>
+   
+<item>
    <title>NFL network</title>
    <link>https://hls.ustreamix.com/NFL-Network.m3u8?token=e38-b8c-f8e-387-1c3-7fd-1cd-b59-a5d-a28-845-355-240-e63-bb0-b98-7ee-9c5-7f7-872-c9e-8|Referer= https://ustreamyx.com/stream.php?id=nfl-network&token=61e-b32-e30-e64-21e-cdb-28c-3df-cf3-bfa-1d&Origin= https://ustreamyx.com</link>
    <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/07/bYvDJAUO.jpg</thumbnail>
