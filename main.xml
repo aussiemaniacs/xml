@@ -59,6 +59,13 @@
   </dir>
 	
   <dir>
+   <name>Music</name>
+   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/music.xml</link>
+   <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/music.jpg?raw=true</thumbnail>
+   <fanart>https://github.com/aussiemaniacs/logos/blob/master/music%20fanart.jpg?raw=true</fanart>
+  </dir>
+	
+  <dir>
     <title>Requests</title>
     <temp_movie>all</temp_movie>
     </dir>
