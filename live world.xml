@@ -1,60 +1,6 @@
 <xml>
-<item>
-   <title>USTV 24/7</title>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/ustv.xml</link>
-   <thumbnail>https://lh3.googleusercontent.com/WkZ-pv5jmLQZX5if2pF4rbw6pdbN5kzqqXNUvVMiH9IQvqbC3TLIZ6xhGV7-k10nSug=w412-h220-rw</thumbnail>
-   <fanart>https://cdn.smarthomebeginner.com/images/2016/01/00-Install-Kodi-USTVNow-channels-500x281.jpg</fanart>
-</item>
+
    
-<item>
-   <title>UKTV 24/7</title>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/uktv.xml</link>
-   <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/7/7f/UKTV_logo_2013.png/revision/latest/scale-to-width-down/250?cb=20160719160222</thumbnail>
-   <fanart>http://www.productionpsych.com/wp-content/uploads/2016/09/tv-channels.png</fanart>
-</item>
-   
-<item>
-   <title>NFL network</title>
-   <link>https://hls.ustreamix.com/NFL-Network.m3u8?token=e38-b8c-f8e-387-1c3-7fd-1cd-b59-a5d-a28-845-355-240-e63-bb0-b98-7ee-9c5-7f7-872-c9e-8|Referer= https://ustreamyx.com/stream.php?id=nfl-network&token=61e-b32-e30-e64-21e-cdb-28c-3df-cf3-bfa-1d&Origin= https://ustreamyx.com</link>
-   <thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/07/bYvDJAUO.jpg</thumbnail>
-   <fanart>https://heavyeditorial.files.wordpress.com/2017/08/gettyimages-828673484-e1502403785547.jpg?quality=65&strip=all&w=780</fanart>
-</item>
-
-<item>
-   <title>NBA TV</title>
-   <link>https://hls.ustreamix.com/NBA-TV.m3u8?token=7ff-e17-b87-c3c-374-21d-dea-7cc-f72-fe7-fe0-961-ab1-aa3-28c-be4-a70-a10-f54-ab6-d99-f|Referer= https://ustreamyx.com/stream.php?id=nba-tv&token=83d-fd9-5df-a62-063-dad-b83-623-07a-b89-0c&Origin= https://ustreamyx.com</link>
-   <thumbnail>https://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2012/04/nbatvlogo.png</thumbnail>
-   <fanart>https://i.ytimg.com/vi/vjCWhNAgI-I/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-   <title>Sky Sports Cricket</title>
-   <link>https://hls.ustreamix.com/Sky-Sports-Cricket.m3u8?token=a77-ee5-7a1-839-0b1-bd4-0f1-a7f-a18-b25-c6a-e62-c9d-f71-07a-b77-1a6-af5-11a-90f-af1-9|Referer= https://ustreamyx.com/stream.php?id=sky-sports-cricket&token=a09-3ec-a3a-b6a-784-acf-743-304-4ed-875-bb&Origin= https://ustreamyx.com</link>
-   <thumbnail>https://pbs.twimg.com/profile_images/809669788284788741/f_osTjj1.jpg</thumbnail>
-   <fanart>https://www.bigbash.com.au/-/media/News/2018/07/18strikersbbl7.ashx?mw=1200</fanart>
-</item>
-
-<item>
-   <title>Motor TV</title>
-   <link>https://hls.ustreamix.com/Motors-TV.m3u8?token=54a-27c-602-36e-a5e-2cd-05e-a81-a9b-1eb-c82-78b-2f4-0ee-2aa-6e8-8d3-aa0-850-156-4a4-0|Referer= https://ustreamyx.com/stream.php?id=motors-tv&token=371-7c8-525-1ed-ffa-da5-2e1-bbc-bd1-f37-18&Origin= https://ustreamyx.com</link>
-   <thumbnail>https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg</thumbnail>
-   <fanart>https://i.ytimg.com/vi/L_Y_0dL6baI/hqdefault.jpg</fanart>
-</item>
-
-<item>
-   <title>Sky Sports F1 Live</title>
-   <link>https://hls.ustreamix.com/Sky-Sports-F1.m3u8?token=49f-263-3a8-9cb-d12-f1e-d08-9df-795-051-248-580-b3d-33f-58b-74b-d20-f6f-aa4-edf-5ec-c|Referer= https://ustreamyx.com/stream.php?id=sky-sports-f1&token=b85-8eb-890-a32-145-798-0fb-9e3-826-d95-a4&Origin= https://ustreamyx.com</link>
-   <thumbnail>https://e3.365dm.com/tvlogos/channels/1306-Mobile-Logo.svg?</thumbnail>
-   <fanart>https://tvnewsroom.org/wp-content/uploads/2012/03/tvnewsroom-2012-03-08-12h54m26s106.jpg</fanart>
-</item>
-
-<item>
-   <title>SyFy USA</title>
-   <link>https://hls.ustreamix.com/Syfy.m3u8?token=f20-c44-c13-732-ffc-147-adf-cd1-fa4-b3f-479-f6d-81b-134-c4a-e36-04d-e0f-d65-3af-ead-2|Referer= https://ustreamyx.com/stream.php?id=syfy&token=6b1-ac2-d5f-c55-2c2-a83-876-520-f60-296-12&Origin= https://ustreamyx.com</link>
-   <thumbnail>https://www.bleedingcool.com/wp-content/uploads/2016/04/syfylogo.jpg</thumbnail>
-   <fanart>https://www.syfy.com/sites/syfy/files/summer_preview_2016_blog_promo.jpg</fanart>
-</item>
-
 <item>
    <title>Streamall TV 0</title>
    <link>https://stream.allsprk.tv/live/0/index.m3u8|Referer=https://stream.allsprk.tv/</link>
