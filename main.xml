@@ -44,7 +44,12 @@
     <title>1 Click Movies</title>
     <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click.xml</link>
     <thumbnail>https://raw.githubusercontent.com/aussiemaniacs/logos/master/AM%201%20Click%20Movies.jpg</thumbnail>
-  </dir>	
+  </dir>
+	
+  <dir>
+    <title>1 Click TV Shows</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/1%20click%20tv%20shows.xml</link>
+  </dir>
 	
   <dir>
     <title>Aussie Motorsport</title>
