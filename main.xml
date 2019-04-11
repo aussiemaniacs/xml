@@ -99,3 +99,8 @@
     <title>All Sports Replays</title>
     <all_sports_replays>all</all_sports_replays>
     </dir>
+	
+ <dir>
+    <title>GP Motion</title>
+    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/gpmotion.xml</link>
+ </dir>
