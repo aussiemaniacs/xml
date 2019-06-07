@@ -1,31 +1,12 @@
 <xml> 
 <item>
-   <title>pakistan vs sri lanka WCC 2019 match 11 take 3</title>
-   <link>http://31.220.0.134:8081/live/sscric/chunks.m3u8?nimblesessionid=948867&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgOTozMjo1NiBBTSZoYXNoX3ZhbHVlPUsrSlV4eTlPU282ZUFpY0tBN2l4NHc9PSZ2YWxpZG1pbnV0ZXM9MTIw|Origin=http://www.webtv.ws&Referer=http://www.webtv.ws/embed.php?live=sscric&vw=620&vh=490</link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-
-<item>
-   <title>pak vs sl wcc2019 take 4</title>
-   <link>https://ul.cdn946.net:8443/hls/xr2r49.m3u8?s=IEUlaS6ohYfwh_nR-qjFRw&e=1559931402|Origin=https://wstream.to&Referer=https://wstream.to/embed/xr2r49</link>
-   <thumbnail></thumbnail>
-   <fanart></fanart>
-</item>
-   
-<item>
-   <title>yes</title>
-   <meta>
-   <content>movie</content>
-   <imdb>yes</imdb>
-   <title>yes</title>
-   <year>2018</year>
-   <genre></genre>
-   </meta>
+   <title>pakistan vs sri lanka WCC 2019 match 11</title>
    <link>
-   <sublink></sublink>
-   <sublink></sublink>
-   <sublink>search</sublink>
+   <sublink>https://110.liveflashplayer.org:8088/stream/hizata1/playlist.m3u8?id=42978&wowzasessionid=961536721&pk=f18aab11befdb9844ba329dae4b9ad43b88402a7c491bf3b16afbaff2e7614c4|Origin=https://www.liveflashplayer.org&Referer: https://www.liveflashplayer.org/hembedplayer/hizata1/1/860/480
+</sublink>
+   <sublink>https://hls.static.reallifecam.com/hls/landing/fdbdf2e/19_1/chunklist.m3u8?session=8f024c215da25193a8a2ab7ac6dca90c&player=4a640e18850871ad502b684fc5f2ac51|Origin=https://reallifecam.com&Referer=https://reallifecam.com/en/view/19_1</sublink>
+   <sublink>http://31.220.0.134:8081/live/sscric/chunks.m3u8?nimblesessionid=948867&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgOTozMjo1NiBBTSZoYXNoX3ZhbHVlPUsrSlV4eTlPU282ZUFpY0tBN2l4NHc9PSZ2YWxpZG1pbnV0ZXM9MTIw|Origin=http://www.webtv.ws&Referer=http://www.webtv.ws/embed.php?live=sscric&vw=620&vh=490</sublink>
+   <sublink>https://ul.cdn946.net:8443/hls/xr2r49.m3u8?s=IEUlaS6ohYfwh_nR-qjFRw&e=1559931402|Origin=https://wstream.to&Referer=https://wstream.to/embed/xr2r49</sublink>
    </link>
    <thumbnail></thumbnail>
    <fanart></fanart>
