@@ -1,8 +1,8 @@
 <xml>
 <dir>
-    <title>M3U NAME</title>
+    <title></title>
     <thumbnail></thumbnail>
-    <m3u>http://iptv.cf:8080/get.php?username=tayfun44&password=tayfun4444&type=m3u</m3u>
+    <m3u>https://raw.githubusercontent.com/aussiemaniacs/xml/master/tv_channels_tayfun44%2010062019.m3u</m3u>
     <fanart></fanart>
     <info> </info>
 </dir>
