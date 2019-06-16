@@ -38,48 +38,6 @@
     <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/live%20tv.png?raw=true</thumbnail>
     <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
   </dir>
-
-  ***** <dir>
-    ***** <title>1 Click Movies</title>
-    ***** <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click.xml</link>
-    ***** <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/1%20click%20movies.png?raw=true</thumbnail>
-    ***** <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-  ***** </dir>
-	
-  <dir>
-    <title>1 Click TV Shows</title>
-    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/1%20click%20tv%20shows.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/1%20click%20tv%20shows.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-  </dir>
-	
-  <dir>
-    <title>Aussie Motorsport</title>
-    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/Aussie%20Motor%20Sport.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/motor%20sports.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-  </dir>
-	
-  <dir>
-    <title>Global</title>
-    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/global.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/global%20sports%20icon.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-  </dir>
-	
-  <dir>
-   <name>Music</name>
-   <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/music.xml</link>
-   <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/music%20icon.png?raw=true</thumbnail>
-   <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-  </dir>
-	
-  <dir>
-    <title>Requests</title>
-    <temp_movie>all</temp_movie>
-    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/requests.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-    </dir>
 	
   <item>
     <title>Settings</title>
@@ -89,7 +47,4 @@
     <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
     </item>
 
- <dir>
-    <title>All Sports Replays</title>
-    <all_sports_replays>all</all_sports_replays>
-    </dir>
+ 
