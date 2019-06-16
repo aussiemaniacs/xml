@@ -39,12 +39,12 @@
     <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
   </dir>
 
-  <dir>
-    <title>1 Click Movies</title>
-    <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click.xml</link>
-    <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/1%20click%20movies.png?raw=true</thumbnail>
-    <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
-  </dir>
+  ***** <dir>
+    ***** <title>1 Click Movies</title>
+    ***** <link>https://raw.githubusercontent.com/aussiemaniacs/xml/master/one%20click.xml</link>
+    ***** <thumbnail>https://github.com/aussiemaniacs/logos/blob/master/1%20click%20movies.png?raw=true</thumbnail>
+    ***** <fanart>https://github.com/aussiemaniacs/logos/blob/master/aussie%20maniacs%20addon.jpg?raw=true</fanart>
+  ***** </dir>
 	
   <dir>
     <title>1 Click TV Shows</title>
