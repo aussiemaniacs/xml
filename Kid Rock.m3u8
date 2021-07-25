@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:30, tvg-id="30" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Single_All_Summer_Long_cover.jpg" tvg-name="kid rock all summer long"  group-title="kid rock",kid rock all summer long
+https://archive.org/download/kid-rock-all-summer-long-official-music-video-480p/Kid%20Rock%20-%20All%20Summer%20Long%20%5BOfficial%20Music%20Video%5D%20%28480p%29.ts
+
+#EXTINF:31, tvg-id="31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Cowboy_Kid_Rock.jpg/220px-Cowboy_Kid_Rock.jpg" tvg-name="Kid rock cowboy"  group-title="kid rock",Kid rock cowboy
+https://archive.org/download/kid-rock-cowboy-official-enhanced-music-video-480p/Kid%20Rock%20-%20Cowboy%20%5BOfficial%20Enhanced%20Music%20Video%5D%20%28480p%29.ts
