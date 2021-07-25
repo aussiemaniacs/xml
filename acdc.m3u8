@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:60, tvg-id="60" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Ac-dc-74-jailbreak-cover.jpg/220px-Ac-dc-74-jailbreak-cover.jpg" tvg-name="Ac/dc Jailbreak"  group-title="ac/dc",Ac/dc Jailbreak
+https://archive.org/download/ac-dc-jailbreak-1976-official-music-video-720p/AC_DC%20%20%20%20Jailbreak%201976%20%20official%20music%20video%20%28720p%29.ts
+
+#EXTINF:61, tvg-id="61" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/ACDC-LetThereBeRock.jpg" tvg-name="Ac/dc let there be rock"  group-title="ac/dc",Ac/dc let there be rock
+https://archive.org/download/ac-dc-let-there-be-rock-official-video-480p/AC_DC%20-%20Let%20There%20Be%20Rock%20%28Official%20Video%29%20%28480p%29.ts
